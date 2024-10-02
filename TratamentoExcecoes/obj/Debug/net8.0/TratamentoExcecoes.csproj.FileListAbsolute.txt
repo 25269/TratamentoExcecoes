@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.exe
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.deps.json
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.runtimeconfig.json
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.dll
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.pdb
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.dll
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\refint\TratamentoExcecoes.dll
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.pdb
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.genruntimeconfig.cache
+C:\Temp\Projetos C#\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net8.0\ref\TratamentoExcecoes.dll
